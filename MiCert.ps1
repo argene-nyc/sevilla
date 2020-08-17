@@ -1,1 +1,2 @@
-tracert cnn.com
+New-Item -Path '.\Sds' -ItemType Directory
+exit
